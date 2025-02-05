@@ -1,1 +1,703 @@
-[{"id":160,"slug":"acces-ressources-numeriques-specialisees","titre":"Acc\u00e8s \u00e0 des ressources num\u00e9riques sp\u00e9cialis\u00e9es","uuid":"dc1c0b48-f2a0-4217-bd10-041aa6ce1920","modification":{"username":"laporte_jon","timestamp":1713468259},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":39,"nom":"Direction du d\u00e9veloppement technologique","numero":"5520","responsableCodeUQAM":"muller_tr"},"publicCibles":[{"id":7,"nom":"\u00c9tudiants","enfants":[{"id":8,"nom":"Nouveaux \u00e9tudiants","enfants":[]},{"id":9,"nom":"\u00c9tudiants autochtones","enfants":[]},{"id":10,"nom":"\u00c9tudiants internationaux","enfants":[]},{"id":11,"nom":"\u00c9tudiants libres et auditeurs","enfants":[]},{"id":12,"nom":"\u00c9tudiants en situation de handicap","enfants":[]},{"id":13,"nom":"\u00c9tudiants parents et proches aidants","enfants":[]},{"id":14,"nom":"\u00c9tudiants athl\u00e8tes","enfants":[]},{"id":15,"nom":"Responsables d\u2019associations ou groupes","enfants":[]},{"id":40,"nom":"\u00c9tudiants de 1er cycle","enfants":[]},{"id":41,"nom":"\u00c9tudiants de 2e cycle","enfants":[]},{"id":42,"nom":"\u00c9tudiants de 3e cycle","enfants":[]},{"id":43,"nom":"Postdoctorants","enfants":[]},{"id":44,"nom":"\u00c9tudiants 2SLGBTQIA+","enfants":[]}]},{"id":39,"nom":"Personnel","enfants":[{"id":16,"nom":"Personnel enseignant","enfants":[]},{"id":20,"nom":"Personnel administratif","enfants":[]}]}],"resume":"Le Service des biblioth\u00e8ques est abonn\u00e9 \u00e0 une grande vari\u00e9t\u00e9 de ressources num\u00e9riques : bases de donn\u00e9es, p\u00e9riodiques, livres, documents multim\u00e9dias, etc.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":447,"slug":"acces-aux-ressources-numeriques-personnes-professeures-retraitees","titre":"Acc\u00e8s aux ressources num\u00e9riques pour les personnes professeures retrait\u00e9es","uuid":"55bef534-3dc0-4ced-9f00-0b9199fc8911","modification":{"username":"laporte_jon","timestamp":1689099439},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":86,"nom":"D\u00e9veloppement et gestion des collections","numero":"550303","responsableCodeUQAM":"gallet_m"},"publicCibles":[{"id":16,"nom":"Personnel enseignant","enfants":[{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]}]}],"resume":"Ce service permet aux personnes professeures retrait\u00e9es de l'UQAM d'acc\u00e9der aux ressources num\u00e9riques du Service des biblioth\u00e8ques.","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":161,"slug":"recherche-documentaire","titre":"Aide \u00e0 la recherche documentaire  ","uuid":"6632aa6b-fc8c-43e7-8dee-e544a4cb4e14","modification":{"username":"laporte_jon","timestamp":1692996426},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Les usagers des biblioth\u00e8ques peuvent consulter le personnel sur place, en ligne ou par t\u00e9l\u00e9phone pour \u00eatre guid\u00e9s dans une recherche d\u2019information.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":168,"slug":"assistance-technique-aux-bibliotheques","titre":"Assistance technique aux biblioth\u00e8ques","uuid":"963326c7-62b3-41bb-b8eb-fb7f3b462e63","modification":{"username":"laporte_jon","timestamp":1689095962},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":39,"nom":"Direction du d\u00e9veloppement technologique","numero":"5520","responsableCodeUQAM":"muller_tr"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Une assistance est offerte pour tout probl\u00e8me reli\u00e9 aux services et outils technologiques des biblioth\u00e8ques de l'UQAM.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":167,"slug":"numerisation-document-imprime","titre":"Demande de num\u00e9risation d'un document imprim\u00e9","uuid":"976f86c1-1754-4c5d-b4dc-61c1762f12ee","modification":{"username":"laporte_jon","timestamp":1708973080},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":87,"nom":"Services directs et exp\u00e9rience \u00e9tudiante","numero":"550304","responsableCodeUQAM":"guy_l"},"publicCibles":[{"id":16,"nom":"Personnel enseignant","enfants":[{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]}]},{"id":21,"nom":"Chercheurs","enfants":[]}],"resume":"Le personnel enseignant ou de recherche peut faire une demande de num\u00e9risation d\u2019une partie d'un document imprim\u00e9 aux biblioth\u00e8ques.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":181,"slug":"depot-archipel","titre":"D\u00e9p\u00f4t dans Archipel ","uuid":"d6223eda-9a4b-4040-91a7-d9d64d855542","modification":{"username":"bouchard.dany@uqam.ca","timestamp":1689184963},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":37,"nom":"Soutien \u00e0 la recherche et \u00e0 la cr\u00e9ation","numero":"550301","responsableCodeUQAM":"bouchard_da"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Le service des biblioth\u00e8que peut offrir du soutien au d\u00e9p\u00f4t d'un document dans Archipel, le d\u00e9p\u00f4t institutionnel de l'UQAM.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":461,"slug":"depot-des-donnees-de-recherche-dans-borealis-uqam","titre":"D\u00e9pot des donn\u00e9es de recherche dans Borealis UQAM","uuid":"243f3802-f432-4fbe-a188-122dc1c38492","modification":{"username":"bouchard.dany@uqam.ca","timestamp":1709147603},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":37,"nom":"Soutien \u00e0 la recherche et \u00e0 la cr\u00e9ation","numero":"550301","responsableCodeUQAM":"bouchard_da"},"publicCibles":[{"id":16,"nom":"Personnel enseignant","enfants":[{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]}]},{"id":41,"nom":"\u00c9tudiants de 2e cycle","enfants":[]},{"id":42,"nom":"\u00c9tudiants de 3e cycle","enfants":[]},{"id":43,"nom":"Postdoctorants","enfants":[]}],"resume":"En cours de r\u00e9daction","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":157,"slug":"espaces-aux-bibliotheques","titre":"Espaces de travail aux biblioth\u00e8ques ","uuid":"d0693b5f-775a-4cd9-9c3f-ea603e9f8e6d","modification":{"username":"laporte_jon","timestamp":1689096004},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":87,"nom":"Services directs et exp\u00e9rience \u00e9tudiante","numero":"550304","responsableCodeUQAM":"guy_l"},"publicCibles":[{"id":35,"nom":"Partenaires","enfants":[]},{"id":36,"nom":"Personnel retrait\u00e9","enfants":[]},{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Une vari\u00e9t\u00e9 de salles et d'espaces de travail est offerte dans les six biblioth\u00e8ques de l'UQAM.  ","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":460,"slug":"formation-et-soutien-au-logiciel-d-analyse-qualitative-nvivo","titre":"Formation et soutien au logiciel d'analyse qualitative Nvivo","uuid":"b82e4801-81f8-48f0-88c2-0bc28ada1763","modification":{"username":"bouchard.dany@uqam.ca","timestamp":1709147005},"meta_commentaires":"<p>Cette fiche est en d\u00e9veloppement (Dany)</p>","motsCles":"","proprietaireDuService":{"id":37,"nom":"Soutien \u00e0 la recherche et \u00e0 la cr\u00e9ation","numero":"550301","responsableCodeUQAM":"bouchard_da"},"publicCibles":[{"id":16,"nom":"Personnel enseignant","enfants":[{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]}]},{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]},{"id":20,"nom":"Personnel administratif","enfants":[{"id":21,"nom":"Chercheurs","enfants":[]},{"id":22,"nom":"Employ\u00e9s de soutien","enfants":[]},{"id":23,"nom":"Employ\u00e9s \u00e9tudiants","enfants":[]},{"id":24,"nom":"Doyens et vice-doyens","enfants":[]},{"id":25,"nom":"Cadres","enfants":[]},{"id":26,"nom":"Directions de programmes","enfants":[]},{"id":27,"nom":"Directions de d\u00e9partements","enfants":[]}]},{"id":21,"nom":"Chercheurs","enfants":[]},{"id":23,"nom":"Employ\u00e9s \u00e9tudiants","enfants":[]},{"id":41,"nom":"\u00c9tudiants de 2e cycle","enfants":[]},{"id":42,"nom":"\u00c9tudiants de 3e cycle","enfants":[]},{"id":43,"nom":"Postdoctorants","enfants":[]}],"resume":"R\u00e9daction en cours","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":163,"slug":"formations-documentaire","titre":"Formations documentaires","uuid":"1d638f6c-3326-46d8-8029-80c47d55ed23","modification":{"username":"laporte_jon","timestamp":1689096015},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Des formations sont offertes afin de faciliter la recherche d'information, l'utilisation d'un logiciel de gestion bibliographique, la citation des sources, etc.  ","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":169,"slug":"dons-bibliotheques","titre":"Gestion des dons de documents","uuid":"7ae8d0e3-4805-49d6-bf1f-6f127b3f08e5","modification":{"username":"laporte_jon","timestamp":1737490000},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":86,"nom":"D\u00e9veloppement et gestion des collections","numero":"550303","responsableCodeUQAM":"gallet_m"},"publicCibles":[{"id":1,"nom":"Futurs \u00e9tudiants","enfants":[{"id":2,"nom":"Futurs \u00e9tudiants (qu\u00e9b\u00e9cois)","enfants":[]},{"id":3,"nom":"Futurs \u00e9tudiants (canadiens)","enfants":[]},{"id":4,"nom":"Futurs \u00e9tudiants (internationaux)","enfants":[]},{"id":5,"nom":"Parents","enfants":[]},{"id":6,"nom":"Professionnels de l\u2019orientation","enfants":[]}]},{"id":28,"nom":"Autres","enfants":[{"id":29,"nom":"Locataires","enfants":[]},{"id":30,"nom":"Chercheurs d\u2019emplois","enfants":[]},{"id":31,"nom":"Employeurs","enfants":[]},{"id":32,"nom":"Donateurs","enfants":[]},{"id":33,"nom":"Grand public","enfants":[]},{"id":34,"nom":"M\u00e9dias","enfants":[]},{"id":35,"nom":"Partenaires","enfants":[]},{"id":36,"nom":"Personnel retrait\u00e9","enfants":[]},{"id":38,"nom":"Dipl\u00f4m\u00e9s","enfants":[]}]},{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Le Service des biblioth\u00e8ques peut accepter les dons de documents.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":164,"slug":"guide-memoire-these","titre":"Guide d'aide \u00e0 la pr\u00e9sentation d'un m\u00e9moire ou d'une th\u00e8se","uuid":"19bc0acc-833e-48ff-80b1-036ab37877f1","modification":{"username":"laporte_jon","timestamp":1689096116},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Le guide de pr\u00e9sentation des m\u00e9moires et des th\u00e8ses indique aux \u00e9tudiants comment pr\u00e9senter le texte d\u2019un m\u00e9moire, essai, rapport ou th\u00e8se.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":170,"slug":"imprimer-numeriser-bibliotheques","titre":"Imprimer et num\u00e9riser aux biblioth\u00e8ques","uuid":"ed310799-a518-484c-9034-388e1acb94ae","modification":{"username":"laporte_jon","timestamp":1689096161},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":87,"nom":"Services directs et exp\u00e9rience \u00e9tudiante","numero":"550304","responsableCodeUQAM":"guy_l"},"publicCibles":[{"id":28,"nom":"Autres","enfants":[{"id":29,"nom":"Locataires","enfants":[]},{"id":30,"nom":"Chercheurs d\u2019emplois","enfants":[]},{"id":31,"nom":"Employeurs","enfants":[]},{"id":32,"nom":"Donateurs","enfants":[]},{"id":33,"nom":"Grand public","enfants":[]},{"id":34,"nom":"M\u00e9dias","enfants":[]},{"id":35,"nom":"Partenaires","enfants":[]},{"id":36,"nom":"Personnel retrait\u00e9","enfants":[]},{"id":38,"nom":"Dipl\u00f4m\u00e9s","enfants":[]}]},{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Des imprimantes  se trouvent dans toutes les biblioth\u00e8ques. Elles servent \u00e9galement \u00e0 faire des photocopies et \u00e0 num\u00e9riser des documents imprim\u00e9s.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":469,"slug":"monitorat","titre":"Monitorat ","uuid":"4fd3f75b-ca0e-42a1-8b73-e44d2fafaa82","modification":{"username":"arseneau.felix@uqam.ca","timestamp":1738699772},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":41,"nom":"\u00c9tudiants de 2e cycle","enfants":[]},{"id":42,"nom":"\u00c9tudiants de 3e cycle","enfants":[]}],"resume":"Conseils personnalis\u00e9s pour la recherche documentaire au 2e et 3e cycle.","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":158,"slug":"pret-ordinateurs-portables","titre":"Pr\u00eat d'ordinateurs portables Suspendu pour l'instant","uuid":"9f12a015-a7a6-4b4e-ad6c-78412cf31673","modification":{"username":"gagnon_na","timestamp":1608653747},"meta_commentaires":null,"motsCles":"","proprietaireDuService":{"id":37,"nom":"Soutien \u00e0 la recherche et \u00e0 la cr\u00e9ation","numero":"550301","responsableCodeUQAM":"bouchard_da"},"publicCibles":[{"id":7,"nom":"\u00c9tudiants","enfants":[{"id":8,"nom":"Nouveaux \u00e9tudiants","enfants":[]},{"id":9,"nom":"\u00c9tudiants autochtones","enfants":[]},{"id":10,"nom":"\u00c9tudiants internationaux","enfants":[]},{"id":11,"nom":"\u00c9tudiants libres et auditeurs","enfants":[]},{"id":12,"nom":"\u00c9tudiants en situation de handicap","enfants":[]},{"id":13,"nom":"\u00c9tudiants parents et proches aidants","enfants":[]},{"id":14,"nom":"\u00c9tudiants athl\u00e8tes","enfants":[]},{"id":15,"nom":"Responsables d\u2019associations ou groupes","enfants":[]},{"id":40,"nom":"\u00c9tudiants de 1er cycle","enfants":[]},{"id":41,"nom":"\u00c9tudiants de 2e cycle","enfants":[]},{"id":42,"nom":"\u00c9tudiants de 3e cycle","enfants":[]},{"id":43,"nom":"Postdoctorants","enfants":[]},{"id":44,"nom":"\u00c9tudiants 2SLGBTQIA+","enfants":[]}]}],"resume":"Les biblioth\u00e8ques de l'UQAM offrent aux \u00e9tudiants la possibilit\u00e9 d'emprunter des ordinateurs portables dot\u00e9s de la suite Office, EndNote et Antidote.","statut":"revision","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":360,"slug":"pret-documents-bibliotheques","titre":"Pr\u00eat et consultation de documents","uuid":"82f047e1-77ab-4d45-aa73-3e0d3666760c","modification":{"username":"laporte_jon","timestamp":1689096195},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":87,"nom":"Services directs et exp\u00e9rience \u00e9tudiante","numero":"550304","responsableCodeUQAM":"guy_l"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Il est possible d'emprunter ou de consulter sur place les documents des biblioth\u00e8ques de l'UQAM.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":466,"slug":"prevention-du-plagiat-et-promotion-de-l-integrite-academique","titre":"Pr\u00e9vention du plagiat et promotion de l\u2019int\u00e9grit\u00e9 acad\u00e9mique","uuid":"158653f8-e535-4722-a5c4-94b12eef8b49","modification":{"username":"arseneau.felix@uqam.ca","timestamp":1738697781},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":7,"nom":"\u00c9tudiants","enfants":[{"id":8,"nom":"Nouveaux \u00e9tudiants","enfants":[]},{"id":9,"nom":"\u00c9tudiants autochtones","enfants":[]},{"id":10,"nom":"\u00c9tudiants internationaux","enfants":[]},{"id":11,"nom":"\u00c9tudiants libres et auditeurs","enfants":[]},{"id":12,"nom":"\u00c9tudiants en situation de handicap","enfants":[]},{"id":13,"nom":"\u00c9tudiants parents et proches aidants","enfants":[]},{"id":14,"nom":"\u00c9tudiants athl\u00e8tes","enfants":[]},{"id":15,"nom":"Responsables d\u2019associations ou groupes","enfants":[]},{"id":40,"nom":"\u00c9tudiants de 1er cycle","enfants":[]},{"id":41,"nom":"\u00c9tudiants de 2e cycle","enfants":[]},{"id":42,"nom":"\u00c9tudiants de 3e cycle","enfants":[]},{"id":43,"nom":"Postdoctorants","enfants":[]},{"id":44,"nom":"\u00c9tudiants 2SLGBTQIA+","enfants":[]}]},{"id":16,"nom":"Personnel enseignant","enfants":[{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]}]}],"resume":"Le Service des biblioth\u00e8ques contribue \u00e0 la pr\u00e9vention du plagiat et \u00e0 la promotion de l\u2019int\u00e9grit\u00e9 acad\u00e9mique en offrant des formations en pr\u00e9sence, en classe ou en ligne.","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":162,"slug":"soutien-a-l-utilisation-d-un-logiciel-de-gestion-bibliographique","titre":"Soutien \u00e0 l'utilisation d'un logiciel de gestion bibliographique","uuid":"c17c05b8-b8ac-4f02-b815-14481dca98bc","modification":{"username":"villalonga.lionel@uqam.ca","timestamp":1728401520},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Les biblioth\u00e9caires offrent du soutien \u00e0 l'utilisation de logiciels de gestion bibliographique, qui permettent notamment d'automatiser des bibliographies. ","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":468,"slug":"soutien-a-la-creation-l-adaptation-et-la-diffusion-ressources-educatives-libres-rel","titre":"Soutien \u00e0 la cr\u00e9ation, l\u2019adaptation et la diffusion - Ressources \u00e9ducatives libres (REL)","uuid":"fa933a31-e992-4028-852f-087f13429b0c","modification":{"username":"arseneau.felix@uqam.ca","timestamp":1738698111},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":16,"nom":"Personnel enseignant","enfants":[{"id":17,"nom":"Professeurs","enfants":[]},{"id":18,"nom":"Ma\u00eetres de langue","enfants":[]},{"id":19,"nom":"Charg\u00e9s de cours","enfants":[]}]}],"resume":"Le Service des biblioth\u00e8ques offre au corps professoral son soutien pour la cr\u00e9ation et l\u2019adaptation de ressources \u00e9ducatives libres (REL) francophones et num\u00e9riques.","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":165,"slug":"soutien-droit-auteur-uqam","titre":"Soutien au respect du droit d'auteur \u00e0 l'UQAM","uuid":"552abcc9-36d8-461a-ba12-1d4995e7a8b8","modification":{"username":"laporte_jon","timestamp":1689096235},"meta_commentaires":"","motsCles":"","proprietaireDuService":{"id":38,"nom":"Soutien \u00e0 l'enseignement et \u00e0 l'apprentissage","numero":"550302","responsableCodeUQAM":"villalonga_l"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"Les biblioth\u00e8ques de l'UQAM offrent un soutien au respect des droits d'auteur ; droit de reproduire la totalit\u00e9 ou une partie importante d'une \u0153uvre.","statut":"publie","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}},{"id":446,"slug":"test-projet","titre":"Test projet ","uuid":"49e7f929-3085-44be-bc6e-9a9db20e27dc","modification":{"username":"laporte_jon","timestamp":1691415352},"meta_commentaires":"<p>Test par Dany de la cr\u00e9ation d'une fiche</p>","motsCles":"testeur, test","proprietaireDuService":{"id":37,"nom":"Soutien \u00e0 la recherche et \u00e0 la cr\u00e9ation","numero":"550301","responsableCodeUQAM":"bouchard_da"},"publicCibles":[{"id":37,"nom":"Toute la communaut\u00e9 universitaire","enfants":[]}],"resume":"test","statut":"redaction","uniteAdministrative":{"description":"","divisions":[],"id":3,"nom":"Service des biblioth\u00e8ques","slug":"service-des-bibliotheques","url":"https://bibliotheques.uqam.ca"}}]
+[
+    {
+        "id": 160,
+        "slug": "acces-ressources-numeriques-specialisees",
+        "titre": "Accès à des ressources numériques spécialisées",
+        "uuid": "dc1c0b48-f2a0-4217-bd10-041aa6ce1920",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1713468259
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 39,
+            "nom": "Direction du développement technologique",
+            "numero": "5520",
+            "responsableCodeUQAM": "muller_tr"
+        },
+        "publicCibles": [
+            {
+                "id": 7,
+                "nom": "Étudiants",
+                "enfants": [
+                    {
+                        "id": 8,
+                        "nom": "Nouveaux étudiants",
+                        "enfants": []
+                    },
+                    {
+                        "id": 9,
+                        "nom": "Étudiants autochtones",
+                        "enfants": []
+                    },
+                    {
+                        "id": 10,
+                        "nom": "Étudiants internationaux",
+                        "enfants": []
+                    },
+                    {
+                        "id": 11,
+                        "nom": "Étudiants libres et auditeurs",
+                        "enfants": []
+                    },
+                    {
+                        "id": 12,
+                        "nom": "Étudiants en situation de handicap",
+                        "enfants": []
+                    },
+                    {
+                        "id": 13,
+                        "nom": "Étudiants parents et proches aidants",
+                        "enfants": []
+                    },
+                    {
+                        "id": 14,
+                        "nom": "Étudiants athlètes",
+                        "enfants": []
+                    },
+                    {
+                        "id": 15,
+                        "nom": "Responsables d’associations ou groupes",
+                        "enfants": []
+                    },
+                    {
+                        "id": 40,
+                        "nom": "Étudiants de 1er cycle",
+                        "enfants": []
+                    },
+                    {
+                        "id": 41,
+                        "nom": "Étudiants de 2e cycle",
+                        "enfants": []
+                    },
+                    {
+                        "id": 42,
+                        "nom": "Étudiants de 3e cycle",
+                        "enfants": []
+                    },
+                    {
+                        "id": 43,
+                        "nom": "Postdoctorants",
+                        "enfants": []
+                    },
+                    {
+                        "id": 44,
+                        "nom": "Étudiants 2SLGBTQIA+",
+                        "enfants": []
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "nom": "Personnel",
+                "enfants": [
+                    {
+                        "id": 16,
+                        "nom": "Personnel enseignant",
+                        "enfants": []
+                    },
+                    {
+                        "id": 20,
+                        "nom": "Personnel administratif",
+                        "enfants": []
+                    }
+                ]
+            }
+        ],
+        "resume": "Le Service des bibliothèques est abonné à une grande variété de ressources numériques : bases de données, périodiques, livres, documents multimédias, etc.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 161,
+        "slug": "recherche-documentaire",
+        "titre": "Aide à la recherche documentaire  ",
+        "uuid": "6632aa6b-fc8c-43e7-8dee-e544a4cb4e14",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1692996426
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 38,
+            "nom": "Soutien à l'enseignement et à l'apprentissage",
+            "numero": "550302",
+            "responsableCodeUQAM": "villalonga_l"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Les usagers des bibliothèques peuvent consulter le personnel sur place, en ligne ou par téléphone pour être guidés dans une recherche d’information.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 168,
+        "slug": "assistance-technique-aux-bibliotheques",
+        "titre": "Assistance technique aux bibliothèques",
+        "uuid": "963326c7-62b3-41bb-b8eb-fb7f3b462e63",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689095962
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 39,
+            "nom": "Direction du développement technologique",
+            "numero": "5520",
+            "responsableCodeUQAM": "muller_tr"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Une assistance est offerte pour tout problème relié aux services et outils technologiques des bibliothèques de l'UQAM.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 167,
+        "slug": "numerisation-document-imprime",
+        "titre": "Demande de numérisation d'un document imprimé",
+        "uuid": "976f86c1-1754-4c5d-b4dc-61c1762f12ee",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1708973080
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 87,
+            "nom": "Services directs et expérience étudiante",
+            "numero": "550304",
+            "responsableCodeUQAM": "guy_l"
+        },
+        "publicCibles": [
+            {
+                "id": 16,
+                "nom": "Personnel enseignant",
+                "enfants": [
+                    {
+                        "id": 17,
+                        "nom": "Professeurs",
+                        "enfants": []
+                    },
+                    {
+                        "id": 18,
+                        "nom": "Maîtres de langue",
+                        "enfants": []
+                    },
+                    {
+                        "id": 19,
+                        "nom": "Chargés de cours",
+                        "enfants": []
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "nom": "Chercheurs",
+                "enfants": []
+            }
+        ],
+        "resume": "Le personnel enseignant ou de recherche peut faire une demande de numérisation d’une partie d'un document imprimé aux bibliothèques.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 181,
+        "slug": "depot-archipel",
+        "titre": "Dépôt dans Archipel ",
+        "uuid": "d6223eda-9a4b-4040-91a7-d9d64d855542",
+        "modification": {
+            "username": "bouchard.dany@uqam.ca",
+            "timestamp": 1689184963
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 37,
+            "nom": "Soutien à la recherche et à la création",
+            "numero": "550301",
+            "responsableCodeUQAM": "bouchard_da"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Le service des bibliothèque peut offrir du soutien au dépôt d'un document dans Archipel, le dépôt institutionnel de l'UQAM.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 157,
+        "slug": "espaces-aux-bibliotheques",
+        "titre": "Espaces de travail aux bibliothèques ",
+        "uuid": "d0693b5f-775a-4cd9-9c3f-ea603e9f8e6d",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689096004
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 87,
+            "nom": "Services directs et expérience étudiante",
+            "numero": "550304",
+            "responsableCodeUQAM": "guy_l"
+        },
+        "publicCibles": [
+            {
+                "id": 35,
+                "nom": "Partenaires",
+                "enfants": []
+            },
+            {
+                "id": 36,
+                "nom": "Personnel retraité",
+                "enfants": []
+            },
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Une variété de salles et d'espaces de travail est offerte dans les six bibliothèques de l'UQAM.  ",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 163,
+        "slug": "formations-documentaire",
+        "titre": "Formations documentaires",
+        "uuid": "1d638f6c-3326-46d8-8029-80c47d55ed23",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689096015
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 38,
+            "nom": "Soutien à l'enseignement et à l'apprentissage",
+            "numero": "550302",
+            "responsableCodeUQAM": "villalonga_l"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Des formations sont offertes afin de faciliter la recherche d'information, l'utilisation d'un logiciel de gestion bibliographique, la citation des sources, etc.  ",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 169,
+        "slug": "dons-bibliotheques",
+        "titre": "Gestion des dons de documents",
+        "uuid": "7ae8d0e3-4805-49d6-bf1f-6f127b3f08e5",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1737490000
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 86,
+            "nom": "Développement et gestion des collections",
+            "numero": "550303",
+            "responsableCodeUQAM": "gallet_m"
+        },
+        "publicCibles": [
+            {
+                "id": 1,
+                "nom": "Futurs étudiants",
+                "enfants": [
+                    {
+                        "id": 2,
+                        "nom": "Futurs étudiants (québécois)",
+                        "enfants": []
+                    },
+                    {
+                        "id": 3,
+                        "nom": "Futurs étudiants (canadiens)",
+                        "enfants": []
+                    },
+                    {
+                        "id": 4,
+                        "nom": "Futurs étudiants (internationaux)",
+                        "enfants": []
+                    },
+                    {
+                        "id": 5,
+                        "nom": "Parents",
+                        "enfants": []
+                    },
+                    {
+                        "id": 6,
+                        "nom": "Professionnels de l’orientation",
+                        "enfants": []
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "nom": "Autres",
+                "enfants": [
+                    {
+                        "id": 29,
+                        "nom": "Locataires",
+                        "enfants": []
+                    },
+                    {
+                        "id": 30,
+                        "nom": "Chercheurs d’emplois",
+                        "enfants": []
+                    },
+                    {
+                        "id": 31,
+                        "nom": "Employeurs",
+                        "enfants": []
+                    },
+                    {
+                        "id": 32,
+                        "nom": "Donateurs",
+                        "enfants": []
+                    },
+                    {
+                        "id": 33,
+                        "nom": "Grand public",
+                        "enfants": []
+                    },
+                    {
+                        "id": 34,
+                        "nom": "Médias",
+                        "enfants": []
+                    },
+                    {
+                        "id": 35,
+                        "nom": "Partenaires",
+                        "enfants": []
+                    },
+                    {
+                        "id": 36,
+                        "nom": "Personnel retraité",
+                        "enfants": []
+                    },
+                    {
+                        "id": 38,
+                        "nom": "Diplômés",
+                        "enfants": []
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Le Service des bibliothèques peut accepter les dons de documents.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 164,
+        "slug": "guide-memoire-these",
+        "titre": "Guide d'aide à la présentation d'un mémoire ou d'une thèse",
+        "uuid": "19bc0acc-833e-48ff-80b1-036ab37877f1",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689096116
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 38,
+            "nom": "Soutien à l'enseignement et à l'apprentissage",
+            "numero": "550302",
+            "responsableCodeUQAM": "villalonga_l"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Le guide de présentation des mémoires et des thèses indique aux étudiants comment présenter le texte d’un mémoire, essai, rapport ou thèse.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 170,
+        "slug": "imprimer-numeriser-bibliotheques",
+        "titre": "Imprimer et numériser aux bibliothèques",
+        "uuid": "ed310799-a518-484c-9034-388e1acb94ae",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689096161
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 87,
+            "nom": "Services directs et expérience étudiante",
+            "numero": "550304",
+            "responsableCodeUQAM": "guy_l"
+        },
+        "publicCibles": [
+            {
+                "id": 28,
+                "nom": "Autres",
+                "enfants": [
+                    {
+                        "id": 29,
+                        "nom": "Locataires",
+                        "enfants": []
+                    },
+                    {
+                        "id": 30,
+                        "nom": "Chercheurs d’emplois",
+                        "enfants": []
+                    },
+                    {
+                        "id": 31,
+                        "nom": "Employeurs",
+                        "enfants": []
+                    },
+                    {
+                        "id": 32,
+                        "nom": "Donateurs",
+                        "enfants": []
+                    },
+                    {
+                        "id": 33,
+                        "nom": "Grand public",
+                        "enfants": []
+                    },
+                    {
+                        "id": 34,
+                        "nom": "Médias",
+                        "enfants": []
+                    },
+                    {
+                        "id": 35,
+                        "nom": "Partenaires",
+                        "enfants": []
+                    },
+                    {
+                        "id": 36,
+                        "nom": "Personnel retraité",
+                        "enfants": []
+                    },
+                    {
+                        "id": 38,
+                        "nom": "Diplômés",
+                        "enfants": []
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Des imprimantes  se trouvent dans toutes les bibliothèques. Elles servent également à faire des photocopies et à numériser des documents imprimés.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 360,
+        "slug": "pret-documents-bibliotheques",
+        "titre": "Prêt et consultation de documents",
+        "uuid": "82f047e1-77ab-4d45-aa73-3e0d3666760c",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689096195
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 87,
+            "nom": "Services directs et expérience étudiante",
+            "numero": "550304",
+            "responsableCodeUQAM": "guy_l"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Il est possible d'emprunter ou de consulter sur place les documents des bibliothèques de l'UQAM.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 162,
+        "slug": "soutien-a-l-utilisation-d-un-logiciel-de-gestion-bibliographique",
+        "titre": "Soutien à l'utilisation d'un logiciel de gestion bibliographique",
+        "uuid": "c17c05b8-b8ac-4f02-b815-14481dca98bc",
+        "modification": {
+            "username": "villalonga.lionel@uqam.ca",
+            "timestamp": 1728401520
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 38,
+            "nom": "Soutien à l'enseignement et à l'apprentissage",
+            "numero": "550302",
+            "responsableCodeUQAM": "villalonga_l"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Les bibliothécaires offrent du soutien à l'utilisation de logiciels de gestion bibliographique, qui permettent notamment d'automatiser des bibliographies. ",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    },
+    {
+        "id": 165,
+        "slug": "soutien-droit-auteur-uqam",
+        "titre": "Soutien au respect du droit d'auteur à l'UQAM",
+        "uuid": "552abcc9-36d8-461a-ba12-1d4995e7a8b8",
+        "modification": {
+            "username": "laporte_jon",
+            "timestamp": 1689096235
+        },
+        "meta_commentaires": "",
+        "motsCles": "",
+        "proprietaireDuService": {
+            "id": 38,
+            "nom": "Soutien à l'enseignement et à l'apprentissage",
+            "numero": "550302",
+            "responsableCodeUQAM": "villalonga_l"
+        },
+        "publicCibles": [
+            {
+                "id": 37,
+                "nom": "Toute la communauté universitaire",
+                "enfants": []
+            }
+        ],
+        "resume": "Les bibliothèques de l'UQAM offrent un soutien au respect des droits d'auteur ; droit de reproduire la totalité ou une partie importante d'une œuvre.",
+        "statut": "publie",
+        "uniteAdministrative": {
+            "description": "",
+            "divisions": [],
+            "id": 3,
+            "nom": "Service des bibliothèques",
+            "slug": "service-des-bibliotheques",
+            "url": "https:\/\/bibliotheques.uqam.ca"
+        }
+    }
+]
