@@ -25,7 +25,7 @@
     },
     {
         "Identification": "TSF 0012",
-        "Production": "Rabelais",
+        "Production": "Rabelais… ou la vie carnavalesque de Gargantua et Pantagruel",
         "Nom": "Cantatrice (La Nourrice Miro)",
         "Image": "TSF0012.JPG",
         "Concepteur": "Michel Demers",
@@ -66,15 +66,15 @@
     {
         "Identification": "TSF 0068",
         "Production": "Le Seigneur des Anneaux",
-        "Nom": "Arbuste rond (1)",
+        "Nom": "Arbuste rond",
         "Image": "TSF0068.JPG",
         "Concepteur": "Michel Demers",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1500478202"
     },
     {
         "Identification": "TSF 0080",
         "Production": "Le Seigneur des Anneaux",
-        "Nom": "Nazgul",
+        "Nom": "Nazgûl",
         "Image": "TSF0080.JPG",
         "Concepteur": "Michel Demers",
         "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1472833542"
@@ -85,12 +85,12 @@
         "Nom": "Gandalf",
         "Image": "TSF0081.JPG",
         "Concepteur": "Michel Demers",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1473279000"
     },
     {
         "Identification": "TSF 0082",
         "Production": "Le Seigneur des Anneaux",
-        "Nom": "Frodo 1e tête",
+        "Nom": "Frodo",
         "Image": "TSF0082.JPG",
         "Concepteur": "Michel Demers",
         "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1461578675"
@@ -101,15 +101,15 @@
         "Nom": "Gollum",
         "Image": "TSF0088.JPG",
         "Concepteur": "Fanny",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1464071160"
     },
     {
         "Identification": "TSF 0091",
         "Production": "Seigneur des anneaux",
-        "Nom": "Orque moyen",
+        "Nom": "Orque",
         "Image": "TSF0091.JPG",
         "Concepteur": "Michel Demers",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1470971034"
     },
     {
         "Identification": "TSF 0095",
@@ -121,15 +121,15 @@
     },
     {
         "Identification": "TSF 0097",
-        "Production": "Ravel",
+        "Production": "Ravel « Boléro et l’Enfant et les sortilèges »",
         "Nom": "Foyer",
         "Image": "TSF0097.JPG",
         "Concepteur": "Michel Demers",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1504091979"
     },
     {
         "Identification": "TSF 0098",
-        "Production": "Ravel",
+        "Production": "Ravel « Boléro et l’Enfant et les sortilèges »",
         "Nom": "Horloge",
         "Image": "TSF0098.JPG",
         "Concepteur": "Michel Demers",
@@ -138,10 +138,10 @@
     {
         "Identification": "TSF 0100",
         "Production": "Hansel et Gretel",
-        "Nom": "Maison de sorcière (petite)",
+        "Nom": "Maison de sorcière",
         "Image": "TSF0100.JPG",
         "Concepteur": "Marc Mongeau",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1501673365"
     },
     {
         "Identification": "TSF 0101",
@@ -154,10 +154,10 @@
     {
         "Identification": "TSF 0114",
         "Production": "Jeux de Rêves",
-        "Nom": "Lit de Simon",
+        "Nom": "Lit de Marie-Ève",
         "Image": "TSF0114.JPG",
         "Concepteur": "Marc Mongeau",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1504091696"
     },
     {
         "Identification": "TSF 0115",
@@ -178,22 +178,14 @@
     {
         "Identification": "TSF 0181",
         "Production": "Le Hobbit",
-        "Nom": "Bilbo (2) grosse tête",
+        "Nom": "Bilbo",
         "Image": "TSF0181.JPG",
         "Concepteur": "Fanny",
         "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1468090271"
     },
     {
-        "Identification": "TSF 0269",
-        "Production": "Seigneur des anneaux",
-        "Nom": "Tête de Frodo",
-        "Image": "TSF0269.JPG",
-        "Concepteur": "Michel Demers",
-        "Lien": ""
-    },
-    {
         "Identification": "TSF 0297",
-        "Production": "Rabelais",
+        "Production": "Rabelais… ou la vie carnavalesque de Gargantua et Pantagruel",
         "Nom": "Humeveine",
         "Image": "TSF0297.JPG",
         "Concepteur": "Michel Demers",
@@ -205,6 +197,6 @@
         "Nom": "Brasero",
         "Image": "TSF0315.JPG",
         "Concepteur": "Michel Demers",
-        "Lien": ""
+        "Lien": "https:\/\/uqam-bib.on.worldcat.org\/oclc\/1501400066"
     }
 ]
