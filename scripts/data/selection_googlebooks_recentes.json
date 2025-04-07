@@ -2,179 +2,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946052,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Une syllabe à la fois :des textes adaptés pour lire plus facilement!",
-        "Auteur": [
-            "Khalil, Michelle,",
-            "Pigeon, Marie-Claude,Dechassey, Laurence,"
-        ],
-        "Edition": "",
-        "Editeur": "md",
-        "DatePublication": "2021",
-        "ISBN": [
-            "2891449657",
-            "2891449665",
-            "2891449673",
-            "2891449681",
-            "289144969X",
-            "2891449703",
-            "2891449711",
-            "289144972X",
-            "2891449738",
-            "2891449746",
-            "2891449754",
-            "2891449762",
-            "2891449770",
-            "2891449789",
-            "2891449797",
-            "2891449940",
-            "9782891449656",
-            "9782891449663",
-            "9782891449670",
-            "9782891449687",
-            "9782891449694",
-            "9782891449700",
-            "9782891449717",
-            "9782891449724",
-            "9782891449731",
-            "9782891449748",
-            "9782891449755",
-            "9782891449762",
-            "9782891449779",
-            "9782891449786",
-            "9782891449793",
-            "9782891449946"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1315588573",
-        "Departement": "Didactique",
-        "Categorie": "Didactique",
-        "NumeroOCLC": "1315588573",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=m0CpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946052,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Une syllabe à la fois :des textes adaptés pour lire plus facilement!",
-        "Auteur": [
-            "Khalil, Michelle,",
-            "Pigeon, Marie-Claude,Dechassey, Laurence,"
-        ],
-        "Edition": "",
-        "Editeur": "Éditions MD",
-        "DatePublication": "2024",
-        "ISBN": [
-            "2898371580",
-            "2898371599",
-            "2898371602",
-            "2898371610",
-            "2898371629",
-            "2898371637",
-            "2898371645",
-            "2898371653",
-            "2898371661",
-            "289837167X",
-            "2898371920",
-            "9782898371585",
-            "9782898371592",
-            "9782898371608",
-            "9782898371615",
-            "9782898371622",
-            "9782898371639",
-            "9782898371646",
-            "9782898371653",
-            "9782898371660",
-            "9782898371677",
-            "9782898371929"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1510766873",
-        "Departement": "Didactique",
-        "Categorie": "Didactique",
-        "NumeroOCLC": "1510766873",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=Sk2y0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946051,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Une syllabe à la fois :des textes adaptés pour lire plus facilement!",
-        "Auteur": [
-            "Khalil, Michelle,",
-            "Pigeon, Marie-Claude,Dechassey, Laurence,"
-        ],
-        "Edition": "",
-        "Editeur": "md",
-        "DatePublication": "2021",
-        "ISBN": [
-            "289144955X",
-            "2891449568",
-            "2891449576",
-            "2891449584",
-            "2891449592",
-            "2891449606",
-            "2891449614",
-            "2891449622",
-            "2891449630",
-            "2891449649",
-            "2891449932",
-            "9782891449557",
-            "9782891449564",
-            "9782891449571",
-            "9782891449588",
-            "9782891449595",
-            "9782891449601",
-            "9782891449618",
-            "9782891449625",
-            "9782891449632",
-            "9782891449649",
-            "9782891449939"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1315588435",
-        "Departement": "Didactique",
-        "Categorie": "Didactique",
-        "NumeroOCLC": "1315588435",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=3kypzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946051,
+        "date_d_ajout_timestamp": 1743949846,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -228,61 +56,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946051,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Une syllabe à la fois :des textes adaptées pour lire plus facilement!",
-        "Auteur": [
-            "Khalil, Michelle,",
-            "Pigeon, Marie-Claude,Ortins, Rowan,"
-        ],
-        "Edition": "",
-        "Editeur": "md",
-        "DatePublication": "2022",
-        "ISBN": [
-            "2898370851",
-            "289837086X",
-            "2898370878",
-            "2898370886",
-            "2898370894",
-            "2898370908",
-            "2898370916",
-            "2898370924",
-            "2898370932",
-            "2898370940",
-            "2898370959",
-            "9782898370854",
-            "9782898370861",
-            "9782898370878",
-            "9782898370885",
-            "9782898370892",
-            "9782898370908",
-            "9782898370915",
-            "9782898370922",
-            "9782898370939",
-            "9782898370946",
-            "9782898370953"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1353823387",
-        "Departement": "Didactique",
-        "Categorie": "Didactique",
-        "NumeroOCLC": "1353823387",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=gtl9zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946049,
+        "date_d_ajout_timestamp": 1743949845,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -317,41 +91,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946049,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "The uncollected stories of Mavis Gallant",
-        "Auteur": [
-            "Gallant, Mavis,",
-            "Hallberg, Garth Risk,"
-        ],
-        "Edition": "",
-        "Editeur": "The New York Review of Books",
-        "DatePublication": "2025",
-        "ISBN": [
-            "1681378744",
-            "9781681378749"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1508894186",
-        "Departement": "Études littéraires",
-        "Categorie": "Litterature",
-        "NumeroOCLC": "1508894186",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=UW38EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946048,
+        "date_d_ajout_timestamp": 1743949845,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -386,7 +126,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946044,
+        "date_d_ajout_timestamp": 1743949845,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -420,7 +160,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946043,
+        "date_d_ajout_timestamp": 1743949845,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -428,34 +168,67 @@
             "3 derniers mois",
             "30 derniers jours"
         ],
-        "Titre": "Receptive bodies",
+        "Titre": "The uncollected stories of Mavis Gallant",
         "Auteur": [
-            "Bersani, Leo"
+            "Gallant, Mavis,",
+            "Hallberg, Garth Risk,"
         ],
         "Edition": "",
-        "Editeur": "The University of Chicago Press",
-        "DatePublication": "2018",
+        "Editeur": "The New York Review of Books",
+        "DatePublication": "2025",
         "ISBN": [
-            "022657962X",
-            "022657976X",
-            "9780226579627",
-            "9780226579764"
+            "1681378744",
+            "9781681378749"
         ],
         "TypeDocument": [
             "Monographie imprimée"
         ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1091946720",
-        "Departement": "Design",
-        "Categorie": "Design",
-        "NumeroOCLC": "1091946720",
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1508894186",
+        "Departement": "Études littéraires",
+        "Categorie": "Litterature",
+        "NumeroOCLC": "1508894186",
         "has_auteurs_uqam": "Non",
         "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=cuk1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        "image": "https:\/\/books.google.com\/books\/content?id=UW38EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946042,
+        "date_d_ajout_timestamp": 1743949844,
+        "DateAjout": "2025-04-06",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Les incroyables aventures de Marie Jeanne Maringouin :monologue musical en un acte",
+        "Auteur": [
+            "Highway, Tomson,",
+            "Highway, Tomson,Todd, Sue,Gionet, Carl Philippe,"
+        ],
+        "Edition": "",
+        "Editeur": "Prise de parole",
+        "DatePublication": "2024",
+        "ISBN": [
+            "2897442522",
+            "9782897442521"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1413231470",
+        "Departement": "Littérature jeunesse",
+        "Categorie": "Litterature_jeunesse",
+        "NumeroOCLC": "1413231470",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=Y5S90AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "04",
+        "date_d_ajout_timestamp": 1743949844,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -492,7 +265,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946042,
+        "date_d_ajout_timestamp": 1743949844,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -500,235 +273,34 @@
             "3 derniers mois",
             "30 derniers jours"
         ],
-        "Titre": "Preparing for eternity :funerary models and wall scenes from the Egyptian Old and Middle Kingdoms",
+        "Titre": "Receptive bodies",
         "Auteur": [
-            "Barker, Georgia"
+            "Bersani, Leo"
         ],
         "Edition": "",
-        "Editeur": "BAR Publishing",
-        "DatePublication": "2022",
+        "Editeur": "The University of Chicago Press",
+        "DatePublication": "2018",
         "ISBN": [
-            "1407359177",
-            "9781407359175"
+            "022657962X",
+            "022657976X",
+            "9780226579627",
+            "9780226579764"
         ],
         "TypeDocument": [
             "Monographie imprimée"
         ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1341981236",
-        "Departement": "Histoire de l'art",
-        "Categorie": "Histoire_art",
-        "NumeroOCLC": "1341981236",
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1091946720",
+        "Departement": "Design",
+        "Categorie": "Design",
+        "NumeroOCLC": "1091946720",
         "has_auteurs_uqam": "Non",
         "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=uDHuzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        "image": "https:\/\/books.google.com\/books\/content?id=cuk1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946041,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Piari et le Grand Guerrier",
-        "Auteur": [
-            "Chayer, Sira,",
-            "Gentes, Piari Kauki,Bigué, Geneviève,"
-        ],
-        "Edition": "",
-        "Editeur": "Québec Amérique",
-        "DatePublication": "2023",
-        "ISBN": [
-            "2764451008",
-            "9782764451007"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1390152713",
-        "Departement": "Littérature jeunesse",
-        "Categorie": "Litterature_jeunesse",
-        "NumeroOCLC": "1390152713",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=XmQC0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946041,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Penser et représenter le monde :Les images relatives à la conception du monde dans l'Égypte ancienne",
-        "Auteur": [
-            "Calmettes, Marie-Astrid"
-        ],
-        "Edition": "",
-        "Editeur": "Safran éditions",
-        "DatePublication": "2024",
-        "ISBN": [
-            "2874571253",
-            "9782874571251"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1425876411",
-        "Departement": "Histoire de l'art",
-        "Categorie": "Histoire_art",
-        "NumeroOCLC": "1425876411",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=dAms0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946038,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Les incroyables aventures de Marie Jeanne Maringouin :monologue musical en un acte",
-        "Auteur": [
-            "Highway, Tomson,",
-            "Highway, Tomson,Todd, Sue,Gionet, Carl Philippe,"
-        ],
-        "Edition": "",
-        "Editeur": "Prise de parole",
-        "DatePublication": "2024",
-        "ISBN": [
-            "2897442522",
-            "9782897442521"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1413231470",
-        "Departement": "Littérature jeunesse",
-        "Categorie": "Litterature_jeunesse",
-        "NumeroOCLC": "1413231470",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=Y5S90AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946038,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Le jardin de Kaiah",
-        "Auteur": [
-            "Florence, Melanie,",
-            "Harvey, Karlene,Aubin Dubois, Kateri,Florence, Melanie."
-        ],
-        "Edition": "",
-        "Editeur": "Scholastic",
-        "DatePublication": "2024",
-        "ISBN": [
-            "1443189456",
-            "9781443189453"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1371438363",
-        "Departement": "Littérature jeunesse",
-        "Categorie": "Litterature_jeunesse",
-        "NumeroOCLC": "1371438363",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=sC0Z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946036,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Le grand chef Salamoo Cook arrive en ville!",
-        "Auteur": [
-            "Highway, Thomson,",
-            "Renon, Delphine,Jenniss, Dave,Egan, Coral,Désilets, Alexandre,Clark, Moe,Baribeau, Angel,Highway, Tomson,"
-        ],
-        "Edition": "",
-        "Editeur": "La Montagne secrète",
-        "DatePublication": "2023",
-        "ISBN": [
-            "2898360481",
-            "9782898360480"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1401019565",
-        "Departement": "Littérature jeunesse",
-        "Categorie": "Litterature_jeunesse",
-        "NumeroOCLC": "1401019565",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=D3cA0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946033,
-        "DateAjout": "2025-04-06",
-        "filtre_temporel": [
-            "12 derniers mois",
-            "6 derniers mois",
-            "3 derniers mois",
-            "30 derniers jours"
-        ],
-        "Titre": "Le chant vers la maison",
-        "Auteur": [
-            "Robertson, David Alexander,",
-            "McKibbin, Maya,Aubin Dubois, Kateri,Robertson, David Alexander,"
-        ],
-        "Edition": "",
-        "Editeur": "Scholastic",
-        "DatePublication": "2023",
-        "ISBN": [
-            "1039701310",
-            "9781039701311"
-        ],
-        "TypeDocument": [
-            "Monographie imprimée"
-        ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1360344542",
-        "Departement": "Littérature jeunesse",
-        "Categorie": "Litterature_jeunesse",
-        "NumeroOCLC": "1360344542",
-        "has_auteurs_uqam": "Non",
-        "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=NevuzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "annee": "2025",
-        "mois": "04",
-        "date_d_ajout_timestamp": 1743946031,
+        "date_d_ajout_timestamp": 1743949842,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -761,7 +333,7 @@
     {
         "annee": "2025",
         "mois": "04",
-        "date_d_ajout_timestamp": 1743946030,
+        "date_d_ajout_timestamp": 1743949841,
         "DateAjout": "2025-04-06",
         "filtre_temporel": [
             "12 derniers mois",
@@ -769,25 +341,1267 @@
             "3 derniers mois",
             "30 derniers jours"
         ],
-        "Titre": "Flashpoint! :protest photography in print 1950--present",
+        "Titre": "Boys' love manga :essays on the sexual ambiguity and cross-cultural fandom of the genre",
         "Auteur": [
-            "Lederman, Russet"
+            "Levi, Antonia",
+            "McHarry, Mark",
+            "Pagliassotti, Dru"
         ],
-        "Edition": "First edition.",
-        "Editeur": "10x10 Photobooks, Inc.",
-        "DatePublication": "2024",
+        "Edition": "",
+        "Editeur": "McFarland & Co., Publishers",
+        "DatePublication": "2008",
         "ISBN": [
-            "9798218459505"
+            "0786456272",
+            "9780786456277"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1512454218",
+        "Departement": "Communication sociale et publique",
+        "Categorie": "Communication",
+        "NumeroOCLC": "1512454218",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=9vn7hjM2v4QC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345055,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "The technological republic :hard power, soft belief, and the future of the West",
+        "Auteur": [
+            "Karp, Alexander C.,",
+            "Zamiska, Nicholas W.,"
+        ],
+        "Edition": "",
+        "Editeur": "Crown Currency",
+        "DatePublication": "2025",
+        "ISBN": [
+            "0593798694",
+            "9780593798690"
         ],
         "TypeDocument": [
             "Monographie imprimée"
         ],
-        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1511730384",
-        "Departement": "Catalogues d'exposition",
-        "Categorie": "Catalogues",
-        "NumeroOCLC": "1511730384",
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1511279020",
+        "Departement": "Management",
+        "Categorie": "Management",
+        "NumeroOCLC": "1511279020",
         "has_auteurs_uqam": "Non",
         "Publication UQAM": null,
-        "image": "https:\/\/books.google.com\/books\/content?id=LUcgEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        "image": "http:\/\/books.google.com\/books\/content?id=KkUQEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345055,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Rise of the far right :technologies of recruitment and mobilization",
+        "Auteur": [
+            "Devries, MelodyBessant",
+            "Judith, Watts",
+            "Rob,"
+        ],
+        "Edition": "",
+        "Editeur": "Rowman & Littlefield",
+        "DatePublication": "2021",
+        "ISBN": [
+            "1786614936",
+            "9781786614933"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1511555509",
+        "Departement": "Science politique",
+        "Categorie": "Science_politique",
+        "NumeroOCLC": "1511555509",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=jqE5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345055,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Socially just research with young people :creating activist solidarities in times of crisis",
+        "Auteur": [
+            "Baker, Alison"
+        ],
+        "Edition": "",
+        "Editeur": "Palgrave Macmillan",
+        "DatePublication": "2024",
+        "ISBN": [
+            "3031692969",
+            "9783031692963"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1511584179",
+        "Departement": "Santé et société (ISS)",
+        "Categorie": "Sante_societe",
+        "NumeroOCLC": "1511584179",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=oxorEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345055,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Wicked arts assignments :practising creativity in contemporary arts education",
+        "Auteur": [
+            "Bremmer, Melissa",
+            "Heijnen, Emiel"
+        ],
+        "Edition": "",
+        "Editeur": "Valiz",
+        "DatePublication": "2020",
+        "ISBN": [
+            "9492095750",
+            "9789492095756"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1508876396",
+        "Departement": "Arts visuels et médiatiques",
+        "Categorie": "Arts",
+        "NumeroOCLC": "1508876396",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=VyK6zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345055,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Ville intelligente ou vies intelligentes",
+        "Auteur": [
+            "N'Goala, Gilles",
+            "Paulhiac, Florence",
+            "Durif, Fabien"
+        ],
+        "Edition": "",
+        "Editeur": "ISTE Editions",
+        "DatePublication": "2024",
+        "ISBN": [
+            "183612015X",
+            "9781836120155"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1500285300",
+        "Departement": "Études urbaines et touristiques",
+        "Categorie": "Tourism",
+        "NumeroOCLC": "1500285300",
+        "has_auteurs_uqam": "Oui",
+        "Publication UQAM": "Ville intelligente ou vies intelligentes",
+        "image": "http:\/\/books.google.com\/books\/content?id=BMg-EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345055,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Queer\/early\/modern",
+        "Auteur": [
+            "Freccero, Carla"
+        ],
+        "Edition": "",
+        "Editeur": "Duke University Press",
+        "DatePublication": "2006",
+        "ISBN": [
+            "0822387166",
+            "9780822387169"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1511289953",
+        "Departement": "Théâtre",
+        "Categorie": "Theatre",
+        "NumeroOCLC": "1511289953",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=tmQ5r_V3R8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345053,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Magic motives :a method for developing jazz vocabulary",
+        "Auteur": [
+            "Haerle, Dan"
+        ],
+        "Edition": "",
+        "Editeur": "Jamey Aebersold Jazz",
+        "DatePublication": "2013",
+        "ISBN": [
+            "1562242911",
+            "9781562242916"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1506205631",
+        "Departement": "Musique",
+        "Categorie": "Musique",
+        "NumeroOCLC": "1506205631",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=eKZ9tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345053,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "LLM engineer's handbook :master the art of engineering large language models from concept to production",
+        "Auteur": [
+            "Iusztin, Paul,",
+            "Labonne, Maxime,"
+        ],
+        "Edition": "",
+        "Editeur": "Packt Publishing, Limited",
+        "DatePublication": "2024",
+        "ISBN": [
+            "1836200064",
+            "1836200072",
+            "9781836200062",
+            "9781836200079"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1467195459",
+        "Departement": "Informatique",
+        "Categorie": "Informatique",
+        "NumeroOCLC": "1467195459",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=jHEqEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345050,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Interconnecting the violences of men :continuities and intersections in research, policy and activism",
+        "Auteur": [
+            "Seymour, Kate",
+            "Pease, BobStrid",
+            "Sofia, Hearn",
+            "Jeff,"
+        ],
+        "Edition": "",
+        "Editeur": "Routledge",
+        "DatePublication": "2025",
+        "ISBN": [
+            "1003415075",
+            "9781003415077"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1511812445",
+        "Departement": "Psychologie",
+        "Categorie": "Psychologie",
+        "NumeroOCLC": "1511812445",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=dpXO0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1743345048,
+        "DateAjout": "2025-03-30",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Deleuze, mathematics, metaphysics :difference and necessity",
+        "Auteur": [
+            "Ardoline, Michael J."
+        ],
+        "Edition": "",
+        "Editeur": "Edinburgh University press",
+        "DatePublication": "2024",
+        "ISBN": [
+            "1399536338",
+            "9781399536332"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1506229357",
+        "Departement": "Sciences des religions",
+        "Categorie": "Sciences_religions",
+        "NumeroOCLC": "1506229357",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=7gGg0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742740265,
+        "DateAjout": "2025-03-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "The Material Limits of Energy Transition: Thanatia",
+        "Auteur": [
+            "Valero Delgado, Alicia.",
+            "Valero Capilla, AntonioCalvo, Guiomar."
+        ],
+        "Edition": "",
+        "Editeur": "Springer International Publishing.Springer Nature",
+        "DatePublication": "2021",
+        "ISBN": [
+            "3030785335",
+            "9783030785338"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1390597201",
+        "Departement": "Sociologie",
+        "Categorie": "Sociologie",
+        "NumeroOCLC": "1390597201",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=ekw5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742740258,
+        "DateAjout": "2025-03-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "How to teach nature journaling :curiosity, wonder, attention",
+        "Auteur": [
+            "Laws, John Muir,",
+            "Lygren, Emilie,Tan, Amy,"
+        ],
+        "Edition": "",
+        "Editeur": "Heyday",
+        "DatePublication": "2020",
+        "ISBN": [
+            "1597144908",
+            "9781597144902"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1506202611",
+        "Departement": "Danse",
+        "Categorie": "Danse",
+        "NumeroOCLC": "1506202611",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=nelZvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742740258,
+        "DateAjout": "2025-03-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Film and television production in the age of climate crisis :towards a greener screen",
+        "Auteur": [
+            "Kääpä, Pietari",
+            "Vaughan, Hunter"
+        ],
+        "Edition": "",
+        "Editeur": "Palgrave Macmillan",
+        "DatePublication": "2022",
+        "ISBN": [
+            "3030981207",
+            "9783030981204"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1508876301",
+        "Departement": "Médias (école des)",
+        "Categorie": "Medias",
+        "NumeroOCLC": "1508876301",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=3yKDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742740256,
+        "DateAjout": "2025-03-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Aristotle's Organon in old and new logic :1800-1950",
+        "Auteur": [
+            "King, Colin Guthrie",
+            "Raspa, Venanzio"
+        ],
+        "Edition": "",
+        "Editeur": "Bloomsbury Publishing Plc",
+        "DatePublication": "2025",
+        "ISBN": [
+            "1350372196",
+            "135037220X",
+            "9781350372191",
+            "9781350372207"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1506566846",
+        "Departement": "Philosophie",
+        "Categorie": "Philosophie",
+        "NumeroOCLC": "1506566846",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=EcI4EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742135469,
+        "DateAjout": "2025-03-16",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Technology strategies :turning technological change into competitive advantage",
+        "Auteur": [
+            "Durand, Thomas"
+        ],
+        "Edition": "",
+        "Editeur": "De Gruyter",
+        "DatePublication": "2025",
+        "ISBN": [
+            "3111397971",
+            "3111399052",
+            "9783111397979",
+            "9783111399058"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1503897887",
+        "Departement": "Organisation et ressources humaines",
+        "Categorie": "Ressources_humaines",
+        "NumeroOCLC": "1503897887",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=gExEEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742135467,
+        "DateAjout": "2025-03-16",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Introduction to approximation theory",
+        "Auteur": [
+            "Cheney, E. W."
+        ],
+        "Edition": "Second edition.",
+        "Editeur": "AMS Chelsea Publishing",
+        "DatePublication": "1998",
+        "ISBN": [
+            "0821813749",
+            "9780821813744"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1131640515",
+        "Departement": "Sciences de la Terre et de l'atmosphère",
+        "Categorie": "Sciences_Terre",
+        "NumeroOCLC": "1131640515",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=2qntwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1742135466,
+        "DateAjout": "2025-03-16",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "B2B influencer marketing :work with creators to generate authentic and effective marketing",
+        "Auteur": [
+            "Bennett, Nick"
+        ],
+        "Edition": "",
+        "Editeur": "Kogan Page",
+        "DatePublication": "2025",
+        "ISBN": [
+            "1398615293",
+            "9781398615298"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1505001332",
+        "Departement": "Marketing",
+        "Categorie": "Marketing",
+        "NumeroOCLC": "1505001332",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=SygyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1741530675,
+        "DateAjout": "2025-03-09",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Jeanne Lanvin :fashion pioneer = Visionärin der Mode",
+        "Auteur": [
+            "Toromanoff, Pierre,",
+            "Lanvin, Jeanne,"
+        ],
+        "Edition": "",
+        "Editeur": "teNeues Verlag GmbH",
+        "DatePublication": "2023",
+        "ISBN": [
+            "3961714428",
+            "9783961714421"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1492300111",
+        "Departement": "Mode (École supérieure de)",
+        "Categorie": "Mode",
+        "NumeroOCLC": "1492300111",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=BSNnzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1741530674,
+        "DateAjout": "2025-03-09",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Financializations of development :global games and local experiments",
+        "Auteur": [
+            "Chiapello, Ève,Engels, Anita,Gonçalves Gresse, Eduardo,",
+            "Financialization and development policies (Conférence)"
+        ],
+        "Edition": "",
+        "Editeur": "Routledge",
+        "DatePublication": "2023",
+        "ISBN": [
+            "1003039677",
+            "9781003039679"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1504139347",
+        "Departement": "Stratégie, responsabilité sociale et env.",
+        "Categorie": "Responsabilite_sociale",
+        "NumeroOCLC": "1504139347",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=JAiGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1741530671,
+        "DateAjout": "2025-03-09",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois",
+            "30 derniers jours"
+        ],
+        "Titre": "Canadian family law",
+        "Auteur": [
+            "Payne, Julien D.,",
+            "Payne, Marilyn A."
+        ],
+        "Edition": "10th edition.",
+        "Editeur": "Irwin Law ;University of Toronto Press",
+        "DatePublication": "2025",
+        "ISBN": [
+            "1552217396",
+            "9781552217399"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1501977738",
+        "Departement": "Sciences juridiques",
+        "Categorie": "Sciences_juridiques",
+        "NumeroOCLC": "1501977738",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=OaEO0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "03",
+        "date_d_ajout_timestamp": 1740929488,
+        "DateAjout": "2025-03-02",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Managerial accounting :tools for business decision-making",
+        "Auteur": [
+            "Weygandt, Jerry J.,",
+            "Kimmel, Paul D.,Aly, Ibrahim M,"
+        ],
+        "Edition": "Sixth Canadian edition.",
+        "Editeur": "John Wiley & Sons Canada",
+        "DatePublication": "2021",
+        "ISBN": [
+            "111973181X",
+            "1119731828",
+            "9781119731818",
+            "9781119731825"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1351648684",
+        "Departement": "Sciences comptables",
+        "Categorie": "Sciences_comptables",
+        "NumeroOCLC": "1351648684",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=oUryzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1740324701,
+        "DateAjout": "2025-02-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "The new perlustration of Greenland :who was a missionary in that country for twenty-five years : with an historical introduction and a life of the author",
+        "Auteur": [
+            "Egede, Hans"
+        ],
+        "Edition": "",
+        "Editeur": "IPI Press",
+        "DatePublication": "2021",
+        "ISBN": [
+            "1736690205",
+            "9781736690208"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1437366850",
+        "Departement": "Multidisciplinaire",
+        "Categorie": "Multidisciplinaire",
+        "NumeroOCLC": "1437366850",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=JeM8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1740324697,
+        "DateAjout": "2025-02-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Le Ramat de la typographie",
+        "Auteur": [
+            "Ramat, A.",
+            "Benoît, Anne-Marie,"
+        ],
+        "Edition": "Onzième édition.",
+        "Editeur": "Anne-Marie Benoit éditrice",
+        "DatePublication": "2017",
+        "ISBN": [
+            "298135132X",
+            "9782981351326"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1004473652",
+        "Departement": "Linguistique",
+        "Categorie": "Linguistique",
+        "NumeroOCLC": "1004473652",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=p5dptAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1740324693,
+        "DateAjout": "2025-02-23",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Childhood, philosophy, and dialogical education :(r)evolutionary essays",
+        "Auteur": [
+            "Kennedy, David"
+        ],
+        "Edition": "",
+        "Editeur": "State University of New York Press",
+        "DatePublication": "2024",
+        "ISBN": [
+            "1438499450",
+            "9781438499451"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1498402325",
+        "Departement": "Éducation et formation spécialisée",
+        "Categorie": "Education",
+        "NumeroOCLC": "1498402325",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=CZ0CEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1739719910,
+        "DateAjout": "2025-02-16",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "The struggle for Canadian copyright :imperialism to internationalism, 1842-1971",
+        "Auteur": [
+            "Bannerman, Sara"
+        ],
+        "Edition": "",
+        "Editeur": "UBC Press",
+        "DatePublication": "2013",
+        "ISBN": [
+            "0774824042",
+            "0774824050",
+            "9780774824040",
+            "9780774824057"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/864966074",
+        "Departement": "Documentation professionnelle",
+        "Categorie": "Documentation_professionelle",
+        "NumeroOCLC": "864966074",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=pigoQocbSR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1739719903,
+        "DateAjout": "2025-02-16",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Ancient mirrors of womanhood :a treasury of goddess and heroine lore from around the world",
+        "Auteur": [
+            "Stone, Merlin."
+        ],
+        "Edition": "",
+        "Editeur": "Beacon Press",
+        "DatePublication": "1991",
+        "ISBN": [
+            "0807067512",
+            "9780807067512"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1492284916",
+        "Departement": "Études féministes",
+        "Categorie": "Feminism",
+        "NumeroOCLC": "1492284916",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=y2DXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1739115122,
+        "DateAjout": "2025-02-09",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Masculinities",
+        "Auteur": [
+            "Connell, Raewyn"
+        ],
+        "Edition": "Second edition.",
+        "Editeur": "Routledge, Taylor & Francis Group",
+        "DatePublication": "2005",
+        "ISBN": [
+            "1000246531",
+            "9781000246537"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1483240027",
+        "Departement": "Éducation et pédagogie",
+        "Categorie": "Pedagogie",
+        "NumeroOCLC": "1483240027",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=cSfxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1739115115,
+        "DateAjout": "2025-02-09",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Forward with classics :classical languages in schools and communities",
+        "Auteur": [
+            "Holmes-Henderson, Arlene",
+            "Hunt, StevenMusié",
+            "Mai,"
+        ],
+        "Edition": "",
+        "Editeur": "Bloomsbury Academic",
+        "DatePublication": "2018",
+        "ISBN": [
+            "1474295967",
+            "1474295975",
+            "9781474295963",
+            "9781474295970"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1481628671",
+        "Departement": "Didactique des langues",
+        "Categorie": "Didactique_langues",
+        "NumeroOCLC": "1481628671",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=R1FiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "02",
+        "date_d_ajout_timestamp": 1738510330,
+        "DateAjout": "2025-02-02",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Evolution :making sense of life",
+        "Auteur": [
+            "Emlen, Douglas John,",
+            "Zimmer, Carl,"
+        ],
+        "Edition": "Third edition.",
+        "Editeur": "Macmillan Learning",
+        "DatePublication": "2020",
+        "ISBN": [
+            "1319079865",
+            "9781319079864"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1228916174",
+        "Departement": "Sciences biologiques",
+        "Categorie": "Sciences_biologiques",
+        "NumeroOCLC": "1228916174",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=_28DxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2025",
+        "mois": "01",
+        "date_d_ajout_timestamp": 1737300765,
+        "DateAjout": "2025-01-19",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois",
+            "3 derniers mois"
+        ],
+        "Titre": "Operations management",
+        "Auteur": [
+            "Stevenson, William J.,",
+            "Hojati, Mehran,Cao, James,"
+        ],
+        "Edition": "6th Canadian edition.",
+        "Editeur": "Thomson Reuters",
+        "DatePublication": "2018",
+        "ISBN": [
+            "1259270157",
+            "9781259270154"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1132485582",
+        "Departement": "Analytique, opérations et technologies de l'information",
+        "Categorie": "Informatique_technologie",
+        "NumeroOCLC": "1132485582",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "https:\/\/books.google.com\/books\/content?id=wAW5swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "12",
+        "date_d_ajout_timestamp": 1734276800,
+        "DateAjout": "2024-12-15",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois"
+        ],
+        "Titre": "Museums and mass violence",
+        "Auteur": [
+            "Morrow, Paul",
+            "Sodaro, Amy",
+            "Kahn, Leora"
+        ],
+        "Edition": "",
+        "Editeur": "Routlege",
+        "DatePublication": "2025",
+        "ISBN": [
+            "1040266266",
+            "9781040266267"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1478137418",
+        "Departement": "Muséologie",
+        "Categorie": "Museologie",
+        "NumeroOCLC": "1478137418",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=B600EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "12",
+        "date_d_ajout_timestamp": 1733672020,
+        "DateAjout": "2024-12-08",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois"
+        ],
+        "Titre": "The age of innocence",
+        "Auteur": [
+            "Wharton, Edith,",
+            "Hall, ChristopherVaughan, Louis,Balbusso, Anna,Balbusso, Elena,Wharton, Edith,"
+        ],
+        "Edition": "First edition.",
+        "Editeur": "Black Cat Publishing",
+        "DatePublication": "2008",
+        "ISBN": [
+            "8853005548",
+            "8853005556",
+            "9788853005540",
+            "9788853005557"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/878528629",
+        "Departement": "Langues",
+        "Categorie": "Langues",
+        "NumeroOCLC": "878528629",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=ExE-PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "11",
+        "date_d_ajout_timestamp": 1731252866,
+        "DateAjout": "2024-11-10",
+        "filtre_temporel": [
+            "12 derniers mois",
+            "6 derniers mois"
+        ],
+        "Titre": "Sport for sustainable development :historical and theoretical approaches",
+        "Auteur": [
+            "Hozhabri, Kazem.",
+            "Sobry, Claude.Ramzaninejad, Rahim."
+        ],
+        "Edition": "",
+        "Editeur": "Springer",
+        "DatePublication": "2022",
+        "ISBN": [
+            "3031064887",
+            "3031064895",
+            "9783031064883",
+            "9783031064890"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1464256797",
+        "Departement": "Sciences de l'activité physique",
+        "Categorie": "Sciences_activite_physique",
+        "NumeroOCLC": "1464256797",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=3JEezwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "09",
+        "date_d_ajout_timestamp": 1726410931,
+        "DateAjout": "2024-09-15",
+        "filtre_temporel": [
+            "12 derniers mois"
+        ],
+        "Titre": "Plastic waste trade :a new colonialist means of pollution transfer",
+        "Auteur": [
+            "Gündoğdu, Sedat"
+        ],
+        "Edition": "",
+        "Editeur": "Springer Nature Switzerland",
+        "DatePublication": "2024",
+        "ISBN": [
+            "3031513584",
+            "9783031513589"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1455284211",
+        "Departement": "Sciences économiques",
+        "Categorie": "Sciences_economiques",
+        "NumeroOCLC": "1455284211",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=6l38EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "09",
+        "date_d_ajout_timestamp": 1726410928,
+        "DateAjout": "2024-09-15",
+        "filtre_temporel": [
+            "12 derniers mois"
+        ],
+        "Titre": "Insurance, biases, discrimination and fairness",
+        "Auteur": [
+            "Charpentier, Arthur"
+        ],
+        "Edition": "",
+        "Editeur": "Springer Nature Switzerland",
+        "DatePublication": "2024",
+        "ISBN": [
+            "3031497821",
+            "9783031497827"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1439064698",
+        "Departement": "Finance",
+        "Categorie": "Finance",
+        "NumeroOCLC": "1439064698",
+        "has_auteurs_uqam": "Oui",
+        "Publication UQAM": "Insurance, biases, discrimination and fairness",
+        "image": "http:\/\/books.google.com\/books\/content?id=ctRM0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "09",
+        "date_d_ajout_timestamp": 1725806136,
+        "DateAjout": "2024-09-08",
+        "filtre_temporel": [
+            "12 derniers mois"
+        ],
+        "Titre": "Linear models in statistics",
+        "Auteur": [
+            "Rencher, Alvin C.",
+            "Schaalje, G. Bruce"
+        ],
+        "Edition": "2nd edition",
+        "Editeur": "Wiley-Interscience",
+        "DatePublication": "2008",
+        "ISBN": [
+            "0470192607",
+            "9780470192603"
+        ],
+        "TypeDocument": [
+            "Monographie électronique"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1453537358",
+        "Departement": "Mathématiques",
+        "Categorie": "Mathematiques",
+        "NumeroOCLC": "1453537358",
+        "has_auteurs_uqam": "Non",
+        "Publication UQAM": null,
+        "image": "http:\/\/books.google.com\/books\/content?id=LHV_uiq6dXUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "annee": "2024",
+        "mois": "05",
+        "date_d_ajout_timestamp": 1716129410,
+        "DateAjout": "2024-05-19",
+        "filtre_temporel": [
+            "12 derniers mois"
+        ],
+        "Titre": "L'héritage des luttes environnementales au Québec :un souffle écocitoyen",
+        "Auteur": [
+            "Sauvé, Lucie",
+            "Béliveau, JohanneProulx",
+            "Denise,"
+        ],
+        "Edition": "",
+        "Editeur": "Presses de l'Université du Québec",
+        "DatePublication": "2024",
+        "ISBN": [
+            "2760559750",
+            "9782760559752"
+        ],
+        "TypeDocument": [
+            "Monographie imprimée"
+        ],
+        "LienSofia": "https:\/\/uqam-bib.on.worldcat.org\/v2\/oclc\/1413477553",
+        "Departement": "Sciences de l'environnement",
+        "Categorie": "Sciences_environnement",
+        "NumeroOCLC": "1413477553",
+        "has_auteurs_uqam": "Oui",
+        "Publication UQAM": "L'héritage des luttes environnementales au Québec :un souffle écocitoyen",
+        "image": "http:\/\/books.google.com\/books\/content?id=ocWv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     }
 ]
